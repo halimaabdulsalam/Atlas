@@ -41,6 +41,10 @@ Lighthouse scores:
 * Accessibility: 100
 * Best Practices: 81
 
+## Live Demo
+
+[View Atlas Live](https://atlasscountryapp.netlify.app)
+
 Author
 
 Halima Abdulsalam
